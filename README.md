@@ -9,4 +9,4 @@ CRN: 12675
 I have developed this assignment in Jupyter Notebook. The programming language I have used is Python. In this we have used Principal Component Analysis and algorithms like K-means
 
 
-Video Link: https://github.com/MedaKinoree/ML-Assignment-5
+Video Link: https://drive.google.com/drive/folders/1s9uJOda0Q8UL-bt-NQMEG_w04mTfecxF?usp=share_link
